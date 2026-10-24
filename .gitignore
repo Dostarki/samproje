@@ -1,0 +1,18 @@
+# Custom file names
+*.exe
+mysql_log.txt
+server_log.txt
+crashinfo.txt
+
+# Plugins
+plugins/*.cfg
+
+# Scriptfiles
+scriptfiles/MultiAccs/*.cfg
+scriptfiles/MultiIPs/*.cfg
+
+# Gamemodes
+gamemodes/*.amx
+
+# Logs
+logs/*
